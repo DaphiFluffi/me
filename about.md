@@ -1,8 +1,6 @@
 ---
-title: About MEEEEEEEE
+title: About
 ---
 
-A really basic theme for Jekyll, using the official Jekyll theme implementation.
-
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
+Hi, I'm Daphna, a Computer Scientist based in Berlin. I like exploring and learning by doing. 
+Currently, I am very interested in AI and AR Research and Development. 
